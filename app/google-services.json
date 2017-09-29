@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "658805051748",
+    "firebase_url": "https://fir-practice-c785a.firebaseio.com",
+    "project_id": "fir-practice-c785a",
+    "storage_bucket": "fir-practice-c785a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658805051748:android:e730bf0183f48c5b",
+        "android_client_info": {
+          "package_name": "com.example.diler.englishmusictube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658805051748-rdkgnd0l2h319gpk6fvo7kkt6i21in6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diler.englishmusictube",
+            "certificate_hash": "6945c127d9ecd71b0b493e6c0e64582e0021d9e3"
+          }
+        },
+        {
+          "client_id": "658805051748-2l80di5sqj1pi7fjo5c13h0q9pmvvp7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgkF-bAhuTDgsvMz6g67qrao7AXPBSLnc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658805051748-2l80di5sqj1pi7fjo5c13h0q9pmvvp7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
